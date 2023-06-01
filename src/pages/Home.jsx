@@ -8,7 +8,7 @@ export default function Home() {
             <Container>
                 <Row>
                     <Col>
-                    <p>Home</p>
+                    <h1>Home</h1>
                     </Col>
                 </Row>
             </Container>
