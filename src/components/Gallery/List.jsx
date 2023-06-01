@@ -6,7 +6,7 @@ import Panel from "./Panel.jsx";
 export default function List() {
     return(
         <>
-        <Container>
+        <Container id="gallery">
             <Row className="d-flex justify-content-center">
                 {
                     data.map( (element, index) => {

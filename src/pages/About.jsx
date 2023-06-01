@@ -9,6 +9,7 @@ export default function About() {
                 <Row>
                     <Col>
                         <h2>About</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem molestias modi corporis consectetur quod! Aperiam at sunt consectetur ipsa assumenda quo atque odio nemo culpa! Ex quod possimus dolore quaerat!</p>
                     </Col>
                 </Row>
             </Container>

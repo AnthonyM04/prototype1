@@ -12,7 +12,7 @@ export default function Panel( {element: {title, content, image}} ) {
                 <h3>{title}</h3>
             </div>
 
-            <Modal show={show} onHide={toggleShow} size="lg">
+            <Modal show={show} onHide={toggleShow} size="lg" centered>
                 <Modal.Body>
                     <Container>
                         <Row>
