@@ -1,5 +1,6 @@
-import { Container, Row, Col } from "react-bootstrap"
-import AppLayout from "../layout/AppLayout.jsx"
+import { Container, Row, Col } from "react-bootstrap";
+import AppLayout from "../layout/AppLayout.jsx";
+import Gallery from "../components/Gallery";
 
 export default function Home() {
 
@@ -12,6 +13,8 @@ export default function Home() {
                     </Col>
                 </Row>
             </Container>
+
+            <Gallery />
         </AppLayout>
     )
 }
