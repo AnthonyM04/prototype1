@@ -1,4 +1,4 @@
-import { Container, Row, Col } from "react-bootstrap"
+import { Container, Row } from "react-bootstrap"
 import data from "../../data/gallery.json"
 import Panel from "./Panel.jsx";
 
