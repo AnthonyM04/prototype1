@@ -5,7 +5,7 @@ export default function NavMenu() {
     return(
         <Navbar bg="dark" variant="dark" expand="md">
         <Container fluid>
-          <Navbar.Brand href="/">Prototype1</Navbar.Brand>
+          <Navbar.Brand href="/"> β 1.0</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
